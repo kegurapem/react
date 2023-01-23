@@ -4,7 +4,7 @@ import Line from "./Line.jsx"
 const lines = [
     {
         lineName: "A",
-        destination: "Estacion P"
+        destination: "Estacion H"
     },
     {
         lineName: "B",
