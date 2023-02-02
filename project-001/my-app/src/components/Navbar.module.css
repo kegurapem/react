@@ -1,0 +1,4 @@
+.divNavbar {
+    display: flex;
+    justify-content: space-between;
+}
