@@ -1,4 +1,18 @@
 .divNavbar {
     display: flex;
     justify-content: space-between;
+    padding: 8px;
+}
+
+.navbarLeft a{
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: #404040;
+}
+
+.navbarRight{
+    /* list-style: none; */
+    width: 20px;
+    height: 30px;
 }
